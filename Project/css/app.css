@@ -52,3 +52,9 @@ section#students img {
   max-width: 200px;
   min-width: 250px;
 }
+section#courses .nav-link.active {
+  background-color: #dc3545;
+}
+section#courses .nav-link {
+  color: white;
+}
